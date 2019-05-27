@@ -1,16 +1,8 @@
-# Level Up Tutorials JavaScript Testing 101
+# Password Validator with Jest
 
-## Help Support
-
-https://www.leveluptutorials.com/store
-
-## How To Use
-
+## How to start
 ```
-git clone https://github.com/leveluptuts/Level-Up-JavaScript-Testing-101.git
-cd Level-Up-JavaScript-Testing-101
 npm install
 npm test
 ```
 
-Then follow along on Youtube
